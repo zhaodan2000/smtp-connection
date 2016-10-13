@@ -1,6 +1,6 @@
 {
-  "name": "smtp-connection",
-  "version": "2.12.1",
+  "name": "xd-smtp-connection",
+  "version": "1.0.0",
   "description": "Connect to SMTP servers",
   "main": "lib/smtp-connection.js",
   "directories": {
